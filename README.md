@@ -29,12 +29,12 @@ See the paper for a detailed description of the experiment and methodologies use
 
 `Dcmp` mean decomposition of *Spartina* stems expressed as mass lost per month (g mo^-1)
 
-`Infa.sr` the mean abundance of infauna (# L^-1)
+`Infa.sr` mean abundance of infauna (# L^-1)
 
-`InfaRich.sr` the mean number of infauna taxa (taxa L^-1)
+`InfaRich.sr` mean richness of infauna taxa (taxa L^-1)
 
-`Rays.sr` the mean number of ray holes (# m^-2 d^-1)
+`Rays.sr` mean number of ray holes (# m^-2 d^-1)
 
-`RaysFlip.sr` the reflected mean number of ray holes
+`RaysFlip.sr` reflected mean number of ray holes
 
-`Wfwl.sr` the mean abundance of waterfowl (# m^-2 h^-1)
+`Wfwl.sr` mean abundance of waterfowl (# m^-2 h^-1)
