@@ -4,7 +4,7 @@ Ramus AP, Silliman BR, Thomsen MS, Long ZT (In Review) An invasive foundation sp
 
 This respository contains the plot-level data (from Table S2) used to generate all analyses and figures presented in the paper. It will be updated to include the corresponding R codes used for analyses at some point the future.
 
-#### 1. Data
+### 1. Data
 See the paper for a detailed description of the experiment and methodologies used. These data represent the time-averaged value of each variable measured monthly in each plot over the course of the 10 month experiment. A brief description of each variable is given below. The suffix '.sr' denotes supporting response only measured near the end of the experiment.
 
 `Plot` the experimental plot, numbered from West to East
