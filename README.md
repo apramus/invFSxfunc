@@ -1,6 +1,6 @@
 # Data from 
 
-Ramus AP, Silliman BR, Thomsen MS, Long ZT (2017) An invasive foundation species enhances multifunctionality in a coastal ecosystem. In Press.
+Ramus AP, Silliman BR, Thomsen MS, Long ZT (2017) An invasive foundation species enhances multifunctionality in a coastal ecosystem. *PNAS* (In Press).
 
 This respository contains the plot-level data used to generate all analyses and figures presented in the paper. We plan to update it to include the corresponding R codes used for analyses at some point the future.
 
