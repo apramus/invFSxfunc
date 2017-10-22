@@ -2,7 +2,7 @@
 
 Ramus AP, Silliman BR, Thomsen MS, Long ZT (2017) An invasive foundation species enhances multifunctionality in a coastal ecosystem. *PNAS* 114(32):8580-8585. http://www.pnas.org/content/114/32/8580
 
-This respository contains the plot-level data used to generate all analyses and figures presented in the paper. These data represent the time-averaged value of each variable measured monthly in each plot over the course of the 10 month experiment. See the paper for a detailed description of the experiment and methodologies used. A brief description of each variable is given below. The suffix `.sr` denotes supporting responses only measured near the end of the experiment.
+This respository contains the plot-level data used to generate all analyses and figures presented in the paper. These data represent the time-averaged value of each variable measured monthly in each plot over the course of the 10 month experiment. See the paper for a detailed description of the experiment and methodologies used. A full description of the methodologies and variables is also available from http://www.bco-dmo.org/dataset/716208. A brief description of each variable is given below. The suffix `.sr` denotes supporting responses only measured near the end of the experiment. 
 
 `Plot` the experimental plot, numbered from West to East
 
