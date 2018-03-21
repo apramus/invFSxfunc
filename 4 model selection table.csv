@@ -1,0 +1,86 @@
+"","Response.variable","Model","Formula","K","a","b","c","AICc","deltaAICc","AICcWt","LL","df","F","P","adjR2"
+"2","Epifauna abundance (# m^-2)","Hyperbolic","a * Gcvr/(b + Gcvr)",3,256.902,1.037,NA,534.876,0,1,-264.165,46,103.761,"<0.001",0.686
+"5","Epifauna abundance (# m^-2)","Power","a + b * Gcvr^c",4,-15.804,156.704,0.146,554.573,19.697,0,-272.822,45,28.572,"<0.001",0.54
+"3","Epifauna abundance (# m^-2)","Log","a + b * log(Gcvr + 1)",3,49.89,56.194,NA,556.954,22.078,0,-275.204,46,48.545,"<0.001",0.503
+"4","Epifauna abundance (# m^-2)","Linear","a + b * Gcvr",3,148.303,2.071,NA,582.221,47.345,0,-287.838,46,9.851,"0.003",0.158
+"1","Epifauna abundance (# m^-2)","Null","a",2,204.425,NA,NA,582.99,48.114,0,-292.495,47,0,"1",0
+"21","Epifauna richness (taxa m^-2)","Hyperbolic","a * Gcvr/(b + Gcvr)",3,6.535,1.283,NA,118.515,0,1,-55.985,46,373.843,"<0.001",0.888
+"51","Epifauna richness (taxa m^-2)","Power","a + b * Gcvr^c",4,-0.255,3.621,0.165,160.165,41.65,0,-75.617,45,68.125,"<0.001",0.741
+"31","Epifauna richness (taxa m^-2)","Log","a + b * log(Gcvr + 1)",3,1.152,1.455,NA,163.888,45.373,0,-78.671,46,117.139,"<0.001",0.712
+"41","Epifauna richness (taxa m^-2)","Linear","a + b * Gcvr",3,3.546,0.059,NA,207.449,88.934,0,-100.452,46,19.83,"<0.001",0.286
+"11","Epifauna richness (taxa m^-2)","Null","a",2,5.152,NA,NA,216.109,97.594,0,-109.054,47,0,"1",0
+"32","Dissolution (mass lost in g d^-1)","Log","a + b * log(Gcvr + 1)",3,9.352,-0.313,NA,107.402,0,0.783,-50.428,46,17.608,"<0.001",0.261
+"52","Dissolution (mass lost in g d^-1)","Power","a + b * Gcvr^c",4,9.464,-0.493,0.253,110.486,3.084,0.167,-50.778,45,8.163,"0.001",0.234
+"42","Dissolution (mass lost in g d^-1)","Linear","a + b * Gcvr",3,8.905,-0.015,NA,114.172,6.77,0.027,-53.813,46,9.241,"0.004",0.149
+"12","Dissolution (mass lost in g d^-1)","Null","a",2,8.49,NA,NA,114.413,7.012,0.023,-58.207,47,0,"1",0
+"22","Dissolution (mass lost in g d^-1)","Hyperbolic","a * Gcvr/(b + Gcvr)",3,8.372,-0.004,NA,242.294,134.892,0,-117.874,46,-42.171,"1",-11.276
+"13","Sediment stabilization (delta cm mo^-1)","Null","a",2,0.067,NA,NA,13.285,0,0.913,-7.642,47,0,"1",0
+"43","Sediment stabilization (delta cm mo^-1)","Linear","a + b * Gcvr",3,-0.012,0.003,NA,19.352,6.067,0.044,-6.403,46,2.438,"0.125",0.03
+"53","Sediment stabilization (delta cm mo^-1)","Power","a + b * Gcvr^c",4,0.009,0,2.445,20.707,7.422,0.022,-5.888,45,1.706,"0.193",0.029
+"33","Sediment stabilization (delta cm mo^-1)","Log","a + b * log(Gcvr + 1)",3,0.026,0.015,NA,21.582,8.297,0.014,-7.518,46,0.239,"0.627",-0.016
+"23","Sediment stabilization (delta cm mo^-1)","Hyperbolic","a * Gcvr/(b + Gcvr)",3,0.004,-4.777,NA,23.228,9.943,0.006,-8.341,46,-1.32,"1",-0.052
+"24","Nursery abundance (# m^-2)","Hyperbolic","a * Gcvr/(b + Gcvr)",3,7.778,37.253,NA,190.985,0,0.438,-92.22,46,39.963,"<0.001",0.453
+"44","Nursery abundance (# m^-2)","Linear","a + b * Gcvr",3,0.908,0.07,NA,191.592,0.607,0.324,-92.523,46,38.883,"<0.001",0.446
+"54","Nursery abundance (# m^-2)","Power","a + b * Gcvr^c",4,0.437,0.289,0.67,192.722,1.737,0.184,-91.896,45,20.119,"<0.001",0.449
+"34","Nursery abundance (# m^-2)","Log","a + b * log(Gcvr + 1)",3,-0.118,1.066,NA,195.173,4.188,0.054,-94.314,46,32.781,"<0.001",0.403
+"14","Nursery abundance (# m^-2)","Null","a",2,2.814,NA,NA,212.453,21.468,0,-107.227,47,0,"1",0
+"35","Nursery richness (taxa m^-2)","Log","a + b * log(Gcvr + 1)",3,0.979,0.185,NA,-7.316,0,0.587,6.931,46,67.122,"<0.001",0.585
+"55","Nursery richness (taxa m^-2)","Power","a + b * Gcvr^c",4,0.897,0.296,0.257,-6.609,0.707,0.412,7.77,45,34.8,"<0.001",0.59
+"45","Nursery richness (taxa m^-2)","Linear","a + b * Gcvr",3,1.214,0.01,NA,7.438,14.754,0,-0.446,46,37.187,"<0.001",0.435
+"15","Nursery richness (taxa m^-2)","Null","a",2,1.488,NA,NA,27.33,34.646,0,-14.665,47,0,"1",0
+"25","Nursery richness (taxa m^-2)","Hyperbolic","a * Gcvr/(b + Gcvr)",3,1.586,0.046,NA,42.466,49.782,0,-17.96,46,-5.901,"1",-0.172
+"16","Decomposition (mass lost in g mo^-1)","Null","a",2,1.132,NA,NA,-52.906,0,0.966,25.453,47,0,"1",0
+"46","Decomposition (mass lost in g mo^-1)","Linear","a + b * Gcvr",3,1.146,-0.001,NA,-44.648,8.258,0.016,25.597,46,0.277,"0.601",-0.016
+"36","Decomposition (mass lost in g mo^-1)","Log","a + b * log(Gcvr + 1)",3,1.132,0,NA,-44.36,8.545,0.013,25.453,46,0,"0.995",-0.022
+"56","Decomposition (mass lost in g mo^-1)","Power","a + b * Gcvr^c",4,1.145,0,1.483,-42.329,10.577,0.005,25.63,45,0.166,"0.847",-0.037
+"26","Decomposition (mass lost in g mo^-1)","Hyperbolic","a * Gcvr/(b + Gcvr)",3,1.137,0.005,NA,44.19,97.096,0,-18.822,46,-38.729,"1",-5.464
+"37","Multifunctionality (%)","Log","a + b * log(Gcvr + 1)",3,0.364,0.082,NA,-144.275,0,0.944,75.41,46,226.418,"<0.001",0.827
+"57","Multifunctionality (%)","Power","a + b * Gcvr^c",4,0.323,0.145,0.23,-138.607,5.668,0.056,73.769,45,101.938,"<0.001",0.811
+"47","Multifunctionality (%)","Linear","a + b * Gcvr",3,0.481,0.004,NA,-92.056,52.219,0,49.301,46,45.785,"<0.001",0.488
+"17","Multifunctionality (%)","Null","a",2,0.589,NA,NA,-67.443,76.832,0,32.722,47,0,"1",0
+"27","Multifunctionality (%)","Hyperbolic","a * Gcvr/(b + Gcvr)",3,0.639,0.106,NA,-61.318,82.957,0,33.932,46,2.379,"0.13",0.029
+"38","Number of functions above 10% threshold","Log","a + b * log(Gcvr + 1)",3,4.144,0.69,NA,93.481,0,0.909,-43.468,46,114.312,"<0.001",0.707
+"58","Number of functions above 10% threshold","Power","a + b * Gcvr^c",4,3.779,1.26,0.224,98.095,4.615,0.091,-44.583,45,52.354,"<0.001",0.686
+"48","Number of functions above 10% threshold","Linear","a + b * Gcvr",3,5.147,0.033,NA,127.871,34.391,0,-60.663,46,32.308,"<0.001",0.4
+"18","Number of functions above 10% threshold","Null","a",2,6.042,NA,NA,144.862,51.382,0,-73.431,47,0,"1",0
+"28","Number of functions above 10% threshold","Hyperbolic","a * Gcvr/(b + Gcvr)",3,6.449,0.069,NA,171.559,78.079,0,-82.507,46,-14.484,"1",-0.491
+"39","Number of functions above 20% threshold","Log","a + b * log(Gcvr + 1)",3,3.769,0.728,NA,71.904,0,0.951,-32.679,46,199.266,"<0.001",0.808
+"59","Number of functions above 20% threshold","Power","a + b * Gcvr^c",4,3.619,0.94,0.298,77.847,5.942,0.049,-34.458,45,88.897,"<0.001",0.789
+"49","Number of functions above 20% threshold","Linear","a + b * Gcvr",3,4.704,0.039,NA,108.158,36.253,0,-50.806,46,69.245,"<0.001",0.592
+"19","Number of functions above 20% threshold","Null","a",2,5.771,NA,NA,143.697,71.792,0,-72.848,47,0,"1",0
+"29","Number of functions above 20% threshold","Hyperbolic","a * Gcvr/(b + Gcvr)",3,6.146,0.058,NA,168.908,97.004,0,-81.181,46,-13.494,"1",-0.446
+"310","Number of functions above 30% threshold","Log","a + b * log(Gcvr + 1)",3,3.435,0.751,NA,73.833,0,0.984,-33.644,46,203.79,"<0.001",0.812
+"510","Number of functions above 30% threshold","Power","a + b * Gcvr^c",4,3.263,1.01,0.288,82.03,8.197,0.016,-36.55,45,85.747,"<0.001",0.783
+"410","Number of functions above 30% threshold","Linear","a + b * Gcvr",3,4.435,0.039,NA,115.125,41.292,0,-54.29,46,59.676,"<0.001",0.555
+"110","Number of functions above 30% threshold","Null","a",2,5.5,NA,NA,146.503,72.67,0,-74.251,47,0,"1",0
+"210","Number of functions above 30% threshold","Hyperbolic","a * Gcvr/(b + Gcvr)",3,5.925,0.095,NA,162.91,89.076,0,-78.182,46,-6.949,"1",-0.204
+"311","Number of functions above 40% threshold","Log","a + b * log(Gcvr + 1)",3,3.498,0.682,NA,81.769,0,0.96,-37.612,46,142.676,"<0.001",0.751
+"511","Number of functions above 40% threshold","Power","a + b * Gcvr^c",4,3.276,1.022,0.265,88.135,6.366,0.04,-39.602,45,62.442,"<0.001",0.723
+"411","Number of functions above 40% threshold","Linear","a + b * Gcvr",3,4.429,0.035,NA,116.168,34.399,0,-54.811,46,46.147,"<0.001",0.49
+"111","Number of functions above 40% threshold","Null","a",2,5.375,NA,NA,140.97,59.201,0,-71.485,47,0,"1",0
+"211","Number of functions above 40% threshold","Hyperbolic","a * Gcvr/(b + Gcvr)",3,5.767,0.084,NA,161.578,79.809,0,-77.516,46,-10.222,"1",-0.314
+"512","Number of functions above 50% threshold","Power","a + b * Gcvr^c",4,2.38,1.672,0.188,103.246,0,0.794,-47.158,45,59.208,"<0.001",0.712
+"312","Number of functions above 50% threshold","Log","a + b * log(Gcvr + 1)",3,2.999,0.751,NA,105.939,2.692,0.206,-49.697,46,104.281,"<0.001",0.687
+"412","Number of functions above 50% threshold","Linear","a + b * Gcvr",3,4.053,0.037,NA,135.569,32.322,0,-64.512,46,35.062,"<0.001",0.42
+"212","Number of functions above 50% threshold","Hyperbolic","a * Gcvr/(b + Gcvr)",3,5.529,0.096,NA,143.161,39.914,0,-68.308,46,23.204,"<0.001",0.321
+"112","Number of functions above 50% threshold","Null","a",2,5.062,NA,NA,154.219,50.973,0,-78.11,47,0,"1",0
+"513","Number of functions above 60% threshold","Power","a + b * Gcvr^c",4,2.128,1.689,0.185,109.862,0,0.805,-50.466,45,51.133,"<0.001",0.681
+"313","Number of functions above 60% threshold","Log","a + b * log(Gcvr + 1)",3,2.766,0.744,NA,112.693,2.83,0.195,-53.074,46,89.039,"<0.001",0.652
+"413","Number of functions above 60% threshold","Linear","a + b * Gcvr",3,3.806,0.037,NA,138.639,28.777,0,-66.047,46,32.65,"<0.001",0.402
+"213","Number of functions above 60% threshold","Hyperbolic","a * Gcvr/(b + Gcvr)",3,5.291,0.115,NA,139.725,29.863,0,-66.59,46,30.891,"<0.001",0.389
+"113","Number of functions above 60% threshold","Null","a",2,4.812,NA,NA,155.839,45.977,0,-78.92,47,0,"1",0
+"314","Number of functions above 70% threshold","Log","a + b * log(Gcvr + 1)",3,1.907,0.769,NA,131.521,0,0.679,-62.488,46,64.199,"<0.001",0.573
+"514","Number of functions above 70% threshold","Power","a + b * Gcvr^c",4,1.409,1.515,0.211,133.025,1.504,0.32,-62.047,45,32.4,"<0.001",0.572
+"214","Number of functions above 70% threshold","Hyperbolic","a * Gcvr/(b + Gcvr)",3,4.518,0.226,NA,148.628,17.107,0,-71.041,46,31.161,"<0.001",0.391
+"414","Number of functions above 70% threshold","Linear","a + b * Gcvr",3,2.988,0.038,NA,151.89,20.369,0,-72.672,46,26.091,"<0.001",0.348
+"114","Number of functions above 70% threshold","Null","a",2,4.021,NA,NA,164.911,33.389,0,-83.455,47,0,"1",0
+"315","Number of functions above 80% threshold","Log","a + b * log(Gcvr + 1)",3,1.179,0.723,NA,146.43,0,0.772,-69.942,46,41.602,"<0.001",0.463
+"515","Number of functions above 80% threshold","Power","a + b * Gcvr^c",4,0.92,1.093,0.265,149.068,2.638,0.206,-70.069,45,20.124,"<0.001",0.449
+"215","Number of functions above 80% threshold","Hyperbolic","a * Gcvr/(b + Gcvr)",3,4.1,2.911,NA,153.941,7.511,0.018,-73.698,46,28.912,"<0.001",0.373
+"415","Number of functions above 80% threshold","Linear","a + b * Gcvr",3,2.122,0.039,NA,157.304,10.874,0.003,-75.379,46,23.843,"<0.001",0.327
+"115","Number of functions above 80% threshold","Null","a",2,3.167,NA,NA,168.804,22.374,0,-85.402,47,0,"1",0
+"216","Number of functions above 90% threshold","Hyperbolic","a * Gcvr/(b + Gcvr)",3,2.431,4.868,NA,156.896,0,0.559,-75.175,46,18.729,"<0.001",0.274
+"316","Number of functions above 90% threshold","Log","a + b * log(Gcvr + 1)",3,0.215,0.528,NA,157.822,0.926,0.352,-75.638,46,17.492,"<0.001",0.26
+"516","Number of functions above 90% threshold","Power","a + b * Gcvr^c",4,0.032,0.829,0.253,161.041,4.145,0.07,-76.055,45,8.021,"0.001",0.23
+"116","Number of functions above 90% threshold","Null","a",2,1.667,NA,NA,164.746,7.85,0.011,-83.373,47,0,"1",0
+"416","Number of functions above 90% threshold","Linear","a + b * Gcvr",3,0.995,0.025,NA,165.285,8.389,0.008,-79.37,46,8.349,"0.006",0.135
