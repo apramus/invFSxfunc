@@ -10,7 +10,6 @@
 #                                                                                                                                        #
 ##########################################################################################################################################
 
-
 # Clear field
 rm(list=ls(all.names=T))
 
@@ -18,9 +17,11 @@ rm(list=ls(all.names=T))
 library(AICcmodavg)
 library(broom)
 library(ggplot2)
-library(multifunc)
 library(nls2)
 library(reshape2)
+#library(devtools)
+#install_github("jebyrnes/multifunc")
+library(multifunc)
 
 ##########################################################################################################################################
 
