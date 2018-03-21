@@ -1,13 +1,13 @@
-
-# Code to replicate the primary analysis of ecosystem multifunctionality as presented in
-# 
-# Ramus et al. (2017) An invasive foundation species enhances multifunctionality in a coastal ecosystem. PNAS 114(32):8580-8585.
-# 
-# This code calculates multifunctionaity, fits candidate models using nonlinear least squares for each function individually, and
-# generates the model selection table and corresponding figure presented in the paper.
-#
-# Developed by Aaron Ramus (aaron.ramus@gmail.com). Last updated 21 March 2018.
-
+##########################################################################################################################################
+#                                                                                                                                        #
+# Code to replicate the primary analysis of ecosystem multifunctionality as presented in Ramus et al. (2017) An invasive foundation      #
+# species enhances multifunctionality in a coastal ecosystem. PNAS 114(32):8580-8585.                                                    #
+#                                                                                                                                        #
+# This code calculates multifunctionaity, fits candidate models using nonlinear least squares for each function individually, and        #
+# generates the model selection table and corresponding figure presented in the paper.                                                   # 
+#                                                                                                                                        #
+# Developed by Aaron Ramus (aaron.ramus@gmail.com). Last updated 21 March 2018.                                                          #
+#                                                                                                                                        #
 ##########################################################################################################################################
 
 # Clear field
