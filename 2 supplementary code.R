@@ -899,4 +899,3 @@ fig2 <- ggplot(aes(x=Gcvr, y=value), data=melt) +
       guide=guide_colourbar(title.position="top"), breaks=c(10, 50, 90))
 
 ggsave(fig2, file="5 figure.png", width=4.5, height=5.1, dpi=1200)
-
