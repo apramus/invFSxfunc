@@ -1,9 +1,12 @@
-# Code to generate a model selection table for fitted nls models.
-# 
-# This code works as a 'manual loop' for lack of a better description. Much of it is dedicated to combining and reorganizing infomration, although there are a few calculations. 
-#
-# Developed by Aaron Ramus (aaron.ramus@gmail.com). Last updated 21 March 2018.
-#
+##########################################################################################################################################
+#                                                                                                                                        #
+# Code to generate a model selection table for fitted nls models.                                                                        #
+#                                                                                                                                        #
+# This code works as a 'manual loop' for lack of a better description. Much of it is dedicated to combining and reorganizing             #
+# infomration, although there are a few calculations.                                                                                    #
+#                                                                                                                                        #
+# Developed by Aaron Ramus (aaron.ramus@gmail.com). Last updated 21 March 2018.                                                          #
+#                                                                                                                                        #
 ##########################################################################################################################################
 
 # Create 'nlsTab' from aictab (package AICcmodavg)
