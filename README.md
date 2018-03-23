@@ -6,7 +6,7 @@ Ramus AP, Silliman BR, Thomsen MS, Long ZT (2017) An invasive foundation species
 
 This files contained by this repository are numbered sequentially in the order they appear in our data analysis and figure generation workflow, each of which is described below. To use our code, you will need R installed with the AICcmodavg, broom, ggplot2, nls2, and reshape2 libraries, including their dependencies. You will also need to install the multifunc library from Jarrett Byrnes (http://github.com/jebyrnes/multifunc).
 
-The authors request that you cite the original publication when using these data or modifying the code for any other application.
+*The authors request that you cite the original publication when using these data or modifying the code for any other application.*
 
 
 ### `1 mean plot-level responses.csv`
