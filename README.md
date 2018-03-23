@@ -1,10 +1,10 @@
-# Data and Code from Ramus et al. (2017) *PNAS*
+# Data and Code from Ramus et al. (2017) PNAS
 
 This respository contains the plot-level data used to generate all figures and code to replicate the primary analysis of ecosystem multifunctionality as presented in
 
 Ramus AP, Silliman BR, Thomsen MS, Long ZT (2017) An invasive foundation species enhances multifunctionality in a coastal ecosystem. *Proc Natl Acad Sci USA* 114(32):8580-8585. http://www.pnas.org/content/114/32/8580
 
-`The authors request that you cite the article above when using these data or code in a publication.`
+`The authors request that you cite the above article when using these data or modified code in a publication.`
 
 This files contained by this repository are numbered sequentially in the order they appear in our data analysis and figure generation workflow, each of which is described below. To use our code, you will need R installed with the AICcmodavg, broom, ggplot2, nls2, and reshape2 libraries, including their dependencies. You will also need to install the multifunc library from Jarrett Byrnes (http://github.com/jebyrnes/multifunc).
 
@@ -48,7 +48,7 @@ The plot-level data used to generate all analyses and figures presented in the p
 
 ## `2 supplementary code.R `
 
-Code to replicate the primary analysis of ecosystem multifunctionality as presented in Ramus et al. (2017) *PNAS*. This code calculates multifunctionaity, fits candidate models using nonlinear least squares for each function individually, and generates the model selection table and corresponding figure presented in the paper.
+Code to replicate the primary analysis of ecosystem multifunctionality as presented in Ramus et al. (2017) PNAS. This code calculates multifunctionaity, fits candidate models using nonlinear least squares for each function individually, and generates the model selection table and corresponding figure presented in the paper.
 
 
 ## `3 nlsTab.R `
