@@ -1,6 +1,6 @@
-# Data and Code from Ramus et al. (2017) PNAS
+# Data and Code from Ramus et al. (2017) *PNAS*
 
-This respository contains the plot-level data used to generate all figures and code to replicate the primary analysis of ecosystem multifunctionality as presented in
+This repository contains the plot-level data used to generate all figures and code to replicate the primary analysis of ecosystem multifunctionality as presented in
 
 Ramus AP, Silliman BR, Thomsen MS, Long ZT (2017) An invasive foundation species enhances multifunctionality in a coastal ecosystem. *Proc Natl Acad Sci USA* 114(32):8580-8585. http://www.pnas.org/content/114/32/8580
 
